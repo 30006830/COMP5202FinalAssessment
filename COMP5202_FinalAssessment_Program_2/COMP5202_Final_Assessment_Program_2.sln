@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP5202_Final_Assessment_Program_2", "COMP5202_Final_Assessment_Program_2\COMP5202_Final_Assessment_Program_2.csproj", "{79CD8D2D-EB1C-493F-BBD9-A9BA3A3EDCC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79CD8D2D-EB1C-493F-BBD9-A9BA3A3EDCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CD8D2D-EB1C-493F-BBD9-A9BA3A3EDCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CD8D2D-EB1C-493F-BBD9-A9BA3A3EDCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CD8D2D-EB1C-493F-BBD9-A9BA3A3EDCC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {497650BB-AAE2-4473-99DD-25999EF05634}
+	EndGlobalSection
+EndGlobal
